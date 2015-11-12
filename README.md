@@ -12,6 +12,17 @@ For details on the data see [pg-scott](https://github.com/rsp/pg-scott).
 * **[docker-pg-scott](https://github.com/rsp/docker-pg-scott) uses [pg-scott.sql](https://github.com/rsp/pg-scott#pg-scottsql) data**
 * **[docker-pg-scott-nd](https://github.com/rsp/docker-pg-scott-nd) uses [pg-scott-nd.sql](https://github.com/rsp/pg-scott#pg-scott-ndsql) data**
 
+Usage
+-----
+To download the images from the Docker Hub, run:
+```
+# docker run -ti pocztarski/pg-scott
+```
+or:
+```
+# docker run -ti pocztarski/pg-scott-nd
+```
+
 Commands
 --------
 * `./build-docker-pg-scott.sh` builds the Docker image.
