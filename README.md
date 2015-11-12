@@ -14,7 +14,7 @@ For details on the data see [pg-scott](https://github.com/rsp/pg-scott).
 
 Usage
 -----
-To download the images from the Docker Hub, run:
+To download the images from the Docker Hub and run them in one command:
 ```
 # docker run -ti pocztarski/pg-scott
 ```
