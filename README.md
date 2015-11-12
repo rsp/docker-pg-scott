@@ -1,7 +1,7 @@
 docker-pg-scott
 ===============
 
-This is a Docker image with Ubuntu 12.04 and PostgreSQL 9.3 populated with the classical [Scott database](http://www.orafaq.com/wiki/SCOTT) (EMP, DEPT, BONUS, SALGRADE) from the [pg-scott](https://github.com/rsp/pg-scott) project..
+This is a Docker image with Ubuntu 14.04 and PostgreSQL 9.3 populated with the classical [Scott database](http://www.orafaq.com/wiki/SCOTT) (EMP, DEPT, BONUS, SALGRADE) from the [pg-scott](https://github.com/rsp/pg-scott) project..
 
 It automatically starts the `psql` shell to play with the data interactively.
 
