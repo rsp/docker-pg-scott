@@ -10,7 +10,7 @@ Three relations are available: `emp`, `dept` and `salgrade`.
 For details on the data see [pg-scott](https://github.com/rsp/pg-scott).
 
 * **[docker-pg-scott](https://github.com/rsp/docker-pg-scott) uses [pg-scott.sql](https://github.com/rsp/pg-scott#pg-scottsql) data**
-* **[docker-pg-scott-nd](https://github.com/rsp/docker-pg-scott) uses [pg-scott-nd.sql](https://github.com/rsp/pg-scott#pg-scott-ndsql) data**
+* **[docker-pg-scott-nd](https://github.com/rsp/docker-pg-scott-nd) uses [pg-scott-nd.sql](https://github.com/rsp/pg-scott#pg-scott-ndsql) data**
 
 Commands
 --------
