@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker run -ti pg-scott
+docker run -ti pocztarski/pg-scott
