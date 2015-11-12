@@ -1,0 +1,3 @@
+build-docker-pg-scott.sh
+run-docker-pg-scott.sh
+update-sql.sh
