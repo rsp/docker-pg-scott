@@ -9,7 +9,15 @@ Three relations are available: `emp`, `dept` and `salgrade`.
 
 For details on the data see [pg-scott](https://github.com/rsp/pg-scott).
 
-**This is a version using [pg-scott.sql](https://github.com/rsp/pg-scott#pg-scottsql).**
+* **[docker-pg-scott](https://github.com/rsp/docker-pg-scott) uses [pg-scott.sql](https://github.com/rsp/pg-scott#pg-scottsql) data**
+* **[docker-pg-scott-nd](https://github.com/rsp/docker-pg-scott) uses [pg-scott-nd.sql](https://github.com/rsp/pg-scott#pg-scott-ndsql) data**
+
+Commands
+--------
+* `./build-docker-pg-scott.sh` builds the Docker image.
+* `./run-docker-pg-scott.sh` runs the Docker container.
+
+Other scripts are used internally during the building process and should not be run manually.
 
 Conversion
 ----------
